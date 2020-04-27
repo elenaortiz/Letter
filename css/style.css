@@ -1,0 +1,31 @@
+.text-align-right {
+    text-align: right;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+h3 {
+    word-spacing: 30px;
+}
+
+.line-height {
+    line-height: 1000%;
+}
+
+#font-sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+h2 {
+    font-size: 1.25rem;
+}
+
+.letter-spacing {
+    letter-spacing: 3px;
+}
